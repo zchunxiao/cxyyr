@@ -1,0 +1,15 @@
+{
+  "name": "cxyyr",
+  "version": "1.0.3",
+  "description": "测试 学习",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "测试1",
+    "学习1"
+  ],
+  "author": "zchunxiao",
+  "license": "ISC"
+}
