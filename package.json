@@ -1,6 +1,6 @@
 {
   "name": "cxyyr",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "测试 学习",
   "main": "./src/index.js",
   "scripts": {
